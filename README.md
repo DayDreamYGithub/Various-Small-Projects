@@ -4,7 +4,7 @@
   <p>Python</p>
   <p>Pygame</p>
   <hr>
-  <p><a href="#"><strong>Simple Uber Japan Website Clone</strong></a>🌟🌟</p>
+  <p><a href="#"><strong>Simple Uber Japan Website Clone</strong></a>🌟</p>
   <p>HTML</p>
   <p>CSS</p>
   <p>BootStrap</p>
