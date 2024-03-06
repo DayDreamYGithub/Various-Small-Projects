@@ -9,6 +9,8 @@ Players have to solve simple arithmetic problems. The player starts with 3 HP, w
 
 The game features a graphical user interface (GUI) and allows for player input.
 <hr>
-
+<img src="https://github.com/DayDreamYGithub/Various-Small-Projects/blob/main/Pygame-NumericWarfare/Github_img/1.png?raw=true" alt="gameimg1">
+<img src="https://github.com/DayDreamYGithub/Various-Small-Projects/blob/main/Pygame-NumericWarfare/Github_img/2.png?raw=true" alt="gameimg2">
+<img src="https://github.com/DayDreamYGithub/Various-Small-Projects/blob/main/Pygame-NumericWarfare/Github_img/3.png?raw=true" alt="gameimg3">
 
 </div>
